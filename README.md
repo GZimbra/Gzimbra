@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0033"/>
   </a>
   &nbsp;
-  <a href="[https://tryhackme.com/](https://tryhackme.com/p/iblamegabriel)">
+  <a href="https://tryhackme.com/p/iblamegabriel">
     <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=ff0033"/>
   </a>
 </p>
