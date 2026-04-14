@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Zimbra" />
+ <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Zimbra&width=900&height=200&theme=matrix&color=00FF00&t=12345" />
 </p>
 
 <p align="center">
