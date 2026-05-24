@@ -10,14 +10,13 @@
 <br />
 
 <div align="center">
-  <img src="./assets/readme/max-broadcast.gif" width="220" alt="Max Headroom inspired broadcast glitch" />
+
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=36&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=900&height=70&lines=GABRIEL+M.+ZIMBRA;GZIMBRA+%3A%3A+SYSTEM+ONLINE;RETRO+FUTURE+SECURITY+NODE" alt="Animated technological title: Gabriel M. Zimbra" />
   <h3>Software Engineering | Networks | Offensive Security | Automation</h3>
 
   <p>
     <a href="https://zimbra.space"><img src="https://img.shields.io/badge/PORTFOLIO-zimbra.space-000000?style=for-the-badge&logo=vercel&logoColor=39ff14&labelColor=000000&color=39ff14" alt="Portfolio" /></a>
-    <a href="https://github.com/GZimbra"><img src="https://img.shields.io/badge/GITHUB-GZimbra-000000?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=000000&color=ff00ff" alt="GitHub" /></a>
     <a href="https://tryhackme.com/p/iblamegabriel"><img src="https://img.shields.io/badge/TRYHACKME-iblamegabriel-000000?style=for-the-badge&logo=tryhackme&logoColor=39ff14&labelColor=000000&color=ff0033" alt="TryHackMe" /></a>
     <a href="mailto:gabrielmzimbra@gmail.com"><img src="https://img.shields.io/badge/EMAIL-OPEN_CHANNEL-000000?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=000000&color=ffd700" alt="Email" /></a>
   </p>
@@ -54,9 +53,7 @@
     - Applied AI</code></pre>
 
 <div align="center">
-  <img src="./assets/readme/max-signal.jpg" width="31%" alt="Broadcast frame" />
-  <img src="./assets/readme/max-grid.gif" width="31%" alt="Grid glitch animation" />
-  <img src="./assets/readme/max-frame.jpg" width="31%" alt="Retro TV portrait" />
+    <img src="./assets/readme/max-broadcast.gif" width="220" alt="Max Headroom inspired broadcast glitch" />
 </div>
 
 <h2 align="center"><code>root@zimbra:~# cat /etc/skillset</code></h2>
@@ -95,7 +92,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,bash,powershell,linux,kali,ubuntu,debian,docker,git,github,sqlite,vscode,vim,html,css,js&perline=9" alt="Technical stack icons" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,bash,powershell,linux,kali,docker,git,github,sqlite,vscode,html,css,js&perline=9" alt="Technical stack icons" />
 </div>
 
 <h2 align="center"><code>root@zimbra:~# nmap -sV active-projects.local</code></h2>
@@ -154,16 +151,12 @@
 </p>
 
 <div align="center">
-  <img src="./assets/readme/broadcast-background.jpg" width="48%" alt="Broadcast background" />
   <img src="./assets/readme/max-profile.jpg" width="48%" alt="Retro profile image" />
 </div>
 
 <h2 align="center"><code>root@zimbra:~# ./fetch_stats --source=github</code></h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GZimbra&show_icons=true&hide_border=false&bg_color=000000&title_color=39ff14&text_color=a9fef7&icon_color=ff00ff&border_color=39ff14" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZimbra&layout=compact&hide_border=false&bg_color=000000&title_color=39ff14&text_color=a9fef7&border_color=ff00ff" width="48%" alt="Most used languages" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GZimbra&bg_color=000000&color=39ff14&line=ff00ff&point=ffd700&area=true&area_color=39ff14&hide_border=false&border_color=39ff14" width="100%" alt="GitHub activity graph" />
@@ -180,10 +173,6 @@
     <tr>
       <td align="center">Portfolio</td>
       <td align="center"><a href="https://zimbra.space">https://zimbra.space</a></td>
-    </tr>
-    <tr>
-      <td align="center">GitHub</td>
-      <td align="center"><a href="https://github.com/GZimbra">github.com/GZimbra</a></td>
     </tr>
     <tr>
       <td align="center">TryHackMe</td>
