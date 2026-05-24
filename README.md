@@ -10,9 +10,9 @@
 <br />
 
 <div align="center">
-  <img src="./assets/readme/max-broadcast.gif" width="180" alt="Max Headroom inspired broadcast glitch" />
-
-  <h1>GABRIEL M. ZIMBRA</h1>
+  <img src="./assets/readme/max-broadcast.gif" width="220" alt="Max Headroom inspired broadcast glitch" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=36&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=900&height=70&lines=GABRIEL+M.+ZIMBRA;GZIMBRA+%3A%3A+SYSTEM+ONLINE;RETRO+FUTURE+SECURITY+NODE" alt="Animated technological title: Gabriel M. Zimbra" />
   <h3>Software Engineering | Networks | Offensive Security | Automation</h3>
 
   <p>
@@ -23,24 +23,23 @@
   </p>
 </div>
 
-```text
-+----------------------------------------------------------------------------+
+<pre align="center"><code>+----------------------------------------------------------------------------+
 | SIGNAL: ZIMBRA_NODE_ACTIVE                                                  |
 | MODE  : RETRO-FUTURE BROADCAST / ENGINEERING TERMINAL                       |
 | FOCUS : SOFTWARE, TCP/IP, LINUX, CYBERSECURITY, AUTOMATION                  |
 | QUOTE : "Catch the wave."                                                   |
-+----------------------------------------------------------------------------+
-```
++----------------------------------------------------------------------------+</code></pre>
 
-## `root@zimbra:~# whoami`
+<h2 align="center"><code>root@zimbra:~# whoami</code></h2>
 
-Software Engineering student focused on computer networks, offensive security,
-Linux systems and practical automation. I build socket-based applications,
-security labs, recon tooling, data workflows and systems that expose how
-software behaves below the interface layer.
+<p align="center">
+  Software Engineering student focused on computer networks, offensive security,
+  Linux systems and practical automation. I build socket-based applications,
+  security labs, recon tooling, data workflows and systems that expose how
+  software behaves below the interface layer.
+</p>
 
-```yaml
-operator:
+<pre align="center"><code>operator:
   name: "Gabriel M. Zimbra"
   handle: "GZimbra"
   portfolio: "https://zimbra.space"
@@ -52,90 +51,156 @@ operator:
     - Linux Infrastructure
     - Backend Engineering
     - Automation
-    - Applied AI
-```
+    - Applied AI</code></pre>
 
 <div align="center">
-  <img src="./assets/readme/max-signal.jpg" width="32%" alt="Broadcast frame" />
-  <img src="./assets/readme/max-grid.gif" width="32%" alt="Grid glitch animation" />
-  <img src="./assets/readme/max-frame.jpg" width="32%" alt="Retro TV portrait" />
+  <img src="./assets/readme/max-signal.jpg" width="31%" alt="Broadcast frame" />
+  <img src="./assets/readme/max-grid.gif" width="31%" alt="Grid glitch animation" />
+  <img src="./assets/readme/max-frame.jpg" width="31%" alt="Retro TV portrait" />
 </div>
 
-## `root@zimbra:~# cat /etc/skillset`
+<h2 align="center"><code>root@zimbra:~# cat /etc/skillset</code></h2>
 
-| Area | Practical Stack |
-| :--- | :--- |
-| **Backend / Systems** | C#, .NET, Python, sockets, process automation |
-| **Networks** | TCP/IP, DNS, HTTP, routing basics, packet inspection |
-| **Security** | Recon, enumeration, web security, Linux hardening, CTF labs |
-| **Linux / Ops** | Bash, services, logs, permissions, SSH, Docker |
-| **Data / AI** | Python pipelines, notebooks, PyTorch experiments |
-| **Workflow** | Git, GitHub, VS Code, terminal-first development |
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">Area</th>
+      <th align="center">Practical Stack</th>
+    </tr>
+    <tr>
+      <td align="center"><strong>Backend / Systems</strong></td>
+      <td align="center">C#, .NET, Python, sockets, process automation</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Networks</strong></td>
+      <td align="center">TCP/IP, DNS, HTTP, routing basics, packet inspection</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Security</strong></td>
+      <td align="center">Recon, enumeration, web security, Linux hardening, CTF labs</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Linux / Ops</strong></td>
+      <td align="center">Bash, services, logs, permissions, SSH, Docker</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Data / AI</strong></td>
+      <td align="center">Python pipelines, notebooks, PyTorch experiments</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Workflow</strong></td>
+      <td align="center">Git, GitHub, VS Code, terminal-first development</td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,bash,powershell,linux,kali,ubuntu,debian,docker,git,github,sqlite,vscode,vim,html,css,js&perline=9" alt="Technical stack icons" />
 </div>
 
-## `root@zimbra:~# nmap -sV active-projects.local`
+<h2 align="center"><code>root@zimbra:~# nmap -sV active-projects.local</code></h2>
 
-| Project Type | Stack | Objective |
-| :--- | :--- | :--- |
-| **TCP client/server apps** | C# / .NET / sockets | Multiplayer and protocol-oriented applications |
-| **Recon automation** | Python / Bash | Enumeration, parsing and repeatable security workflows |
-| **Packet analysis labs** | Python / Wireshark / Scapy | Traffic inspection and protocol behavior analysis |
-| **Portfolio platform** | Web / Vercel | Public technical profile at [zimbra.space](https://zimbra.space) |
-| **CTF training** | TryHackMe / Linux | Offensive security practice and methodology building |
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">Project Type</th>
+      <th align="center">Stack</th>
+      <th align="center">Objective</th>
+    </tr>
+    <tr>
+      <td align="center"><strong>TCP client/server apps</strong></td>
+      <td align="center">C# / .NET / sockets</td>
+      <td align="center">Multiplayer and protocol-oriented applications</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Recon automation</strong></td>
+      <td align="center">Python / Bash</td>
+      <td align="center">Enumeration, parsing and repeatable security workflows</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Packet analysis labs</strong></td>
+      <td align="center">Python / Wireshark / Scapy</td>
+      <td align="center">Traffic inspection and protocol behavior analysis</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Portfolio platform</strong></td>
+      <td align="center">Web / Vercel</td>
+      <td align="center">Public technical profile at <a href="https://zimbra.space">zimbra.space</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>CTF training</strong></td>
+      <td align="center">TryHackMe / Linux</td>
+      <td align="center">Offensive security practice and methodology building</td>
+    </tr>
+  </table>
+</div>
 
-```console
-22/tcp    open  linux-ops          ssh, permissions, services, logs
+<pre align="center"><code>22/tcp    open  linux-ops          ssh, permissions, services, logs
 53/tcp    open  dns-analysis       resolution flow and record inspection
 80/tcp    open  web-recon          enumeration, headers, content discovery
 443/tcp   open  portfolio          https://zimbra.space
 4444/tcp  open  lab-channel        controlled offensive security practice
-9001/tcp  open  automation-core    Python and shell tooling
-```
+9001/tcp  open  automation-core    Python and shell tooling</code></pre>
 
-## `root@zimbra:~# ./broadcast --style=max-headroom`
+<h2 align="center"><code>root@zimbra:~# ./broadcast --style=max-headroom</code></h2>
 
-> "20 minutes into the future."
+<p align="center"><strong>"20 minutes into the future."</strong></p>
 
-This profile uses a broadcast-hijack visual language: black terminal surfaces,
-neon green, magenta signal noise, VHS compression, grid-room geometry and
-low-level system language. The goal is visual identity without sacrificing
-technical clarity.
+<p align="center">
+  This profile uses a broadcast-hijack visual language: black terminal surfaces,
+  neon green, magenta signal noise, VHS compression, grid-room geometry and
+  low-level system language. The goal is visual identity without sacrificing
+  technical clarity.
+</p>
 
 <div align="center">
-  <img src="./assets/readme/broadcast-background.jpg" width="49%" alt="Broadcast background" />
-  <img src="./assets/readme/max-profile.jpg" width="49%" alt="Retro profile image" />
+  <img src="./assets/readme/broadcast-background.jpg" width="48%" alt="Broadcast background" />
+  <img src="./assets/readme/max-profile.jpg" width="48%" alt="Retro profile image" />
 </div>
 
-## `root@zimbra:~# ./fetch_stats --source=github`
+<h2 align="center"><code>root@zimbra:~# ./fetch_stats --source=github</code></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GZimbra&show_icons=true&hide_border=false&bg_color=000000&title_color=39ff14&text_color=a9fef7&icon_color=ff00ff&border_color=39ff14" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZimbra&layout=compact&hide_border=false&bg_color=000000&title_color=39ff14&text_color=a9fef7&border_color=ff00ff" width="49%" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GZimbra&show_icons=true&hide_border=false&bg_color=000000&title_color=39ff14&text_color=a9fef7&icon_color=ff00ff&border_color=39ff14" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZimbra&layout=compact&hide_border=false&bg_color=000000&title_color=39ff14&text_color=a9fef7&border_color=ff00ff" width="48%" alt="Most used languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GZimbra&bg_color=000000&color=39ff14&line=ff00ff&point=ffd700&area=true&area_color=39ff14&hide_border=false&border_color=39ff14" width="100%" alt="GitHub activity graph" />
 </div>
 
-## `root@zimbra:~# contact --establish-session`
+<h2 align="center"><code>root@zimbra:~# contact --establish-session</code></h2>
 
-| Channel | Endpoint |
-| :--- | :--- |
-| Portfolio | [https://zimbra.space](https://zimbra.space) |
-| GitHub | [github.com/GZimbra](https://github.com/GZimbra) |
-| TryHackMe | [tryhackme.com/p/iblamegabriel](https://tryhackme.com/p/iblamegabriel) |
-| Email | [gabrielmzimbra@gmail.com](mailto:gabrielmzimbra@gmail.com) |
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">Channel</th>
+      <th align="center">Endpoint</th>
+    </tr>
+    <tr>
+      <td align="center">Portfolio</td>
+      <td align="center"><a href="https://zimbra.space">https://zimbra.space</a></td>
+    </tr>
+    <tr>
+      <td align="center">GitHub</td>
+      <td align="center"><a href="https://github.com/GZimbra">github.com/GZimbra</a></td>
+    </tr>
+    <tr>
+      <td align="center">TryHackMe</td>
+      <td align="center"><a href="https://tryhackme.com/p/iblamegabriel">tryhackme.com/p/iblamegabriel</a></td>
+    </tr>
+    <tr>
+      <td align="center">Email</td>
+      <td align="center"><a href="mailto:gabrielmzimbra@gmail.com">gabrielmzimbra@gmail.com</a></td>
+    </tr>
+  </table>
+</div>
 
-```diff
-+ [OK] portfolio: online
+<pre align="center"><code>+ [OK] portfolio: online
 + [OK] terminal: armed
 + [OK] stack: loaded
 + [OK] signal: clean enough
-! [SYS] end_of_transmission
-```
+! [SYS] end_of_transmission</code></pre>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&fontColor=39ff14&text=%5B%20ZIMBRA%20%3A%3A%20PUBLIC_SIGNAL%20%3A%3A%20END_TRANSMISSION%20%5D&height=38&fontSize=13&stroke=39ff14&strokeWidth=1" width="100%" alt="End transmission banner" />
