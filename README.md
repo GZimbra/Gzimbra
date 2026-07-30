@@ -147,10 +147,6 @@ operator:
 <!-- ==================== STATS :: START ===================== -->
 ## `root@zimbra:~# ./fetch_stats --target=github`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GZimbra&show_icons=true&hide_border=false&bg_color=0a0a0a&title_color=ff0033&text_color=00ff41&icon_color=ffcc00&border_color=ff0033&rank_icon=github" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZimbra&layout=compact&hide_border=false&bg_color=0a0a0a&title_color=ff0033&text_color=00ff41&border_color=00ff41" width="49%" alt="Most used languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GZimbra&bg_color=0a0a0a&color=00ff41&line=ff0033&point=ffcc00&area=true&area_color=ff0033&hide_border=false&border_color=00ff41" width="100%" alt="GitHub activity graph" />
@@ -172,8 +168,8 @@ operator:
 <!-- ==================== FOOTER :: START ==================== -->
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
-│ [OK] stack loaded      [OK] signal encrypted      [OK] trace clean │
-│ [SYS] TRANSMISSION TERMINATED // CONNECTION RESET BY PEER          │
+│ [OK] stack loaded      [OK] signal encrypted      [OK] trace clean   │
+│ [SYS] TRANSMISSION TERMINATED // CONNECTION RESET BY PEER            │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
